@@ -9,7 +9,9 @@
 
 ## ✉️ My Social Media
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vekanda)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/veremeenkoAN/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-3C3C3C?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/veremeenkoAN/)
+
+
   
 </p>
 
