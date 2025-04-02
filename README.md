@@ -1,19 +1,39 @@
 ## 🌠 About Me  
 
-<p style="font-size: 18px; line-height: 1.6;">
-  Let me tell you a little bit about myself.<br><br>
-  My name is <strong style="font-size: 20px; color: #4e9af1;">Alexander</strong>. I'm 20 years old and currently studying at <strong>Lobachevsky State University</strong>.<br>
-  I'm passionate about <strong style="color: #ff6b6b;">computer science</strong> and studying <strong style="color: #58b368;">English</strong>. I love learning new technologies and solving complex problems.<br><br>
-  Have a great day! 😊
+<table>
+  <tr>
+    <td style="font-size: 18px; line-height: 1.6;">
+      Let me tell you a little bit about myself.<br><br>
+      My name is <strong style="font-size: 20px; color: #4e9af1;">Alexander</strong>. I'm 20 years old and currently studying at <strong>Lobachevsky State University</strong>.<br>
+      I'm passionate about <strong style="color: #ff6b6b;">computer science</strong> and studying <strong style="color: #58b368;">English</strong>. I love learning new technologies and solving complex problems.<br><br>
+      Have a great day! 😊
+    </td>
+    <td>
+      <!-- Здесь вы можете добавить свою гифку -->
+      <img src="https://example.com/your-gif.gif" width="200">
+    </td>
+  </tr>
+</table>
 
 
 ## ✉️ My Social Media
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vekanda)
 [![LeetCode](https://img.shields.io/badge/LeetCode-3C3C3C?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/veremeenkoAN/)
-![cat](https://github.com/user-attachments/assets/246351b6-5767-41cb-871c-266ffd2bd7e5)
 </p>
 
-![cat](https://github.com/user-attachments/assets/93dd8eae-ce91-4068-9515-e5d023fe183f)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=veremeenkoAN&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veremeenkoAN&layout=compact&theme=blue_navy">
+    </td>
+    <td>
+      <img src="https://github.com/veremeenkoAN/gift/blob/main/cat2.gif" width="200">
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🛠️ My Stack  
