@@ -3,9 +3,10 @@
 <p style="font-size: 18px; line-height: 1.6;">
   Let me tell you a little bit about myself.<br><br>
   My name is <strong style="font-size: 20px; color: #4e9af1;">Alexander</strong>. I'm 20 years old and currently studying at <strong>Lobachevsky State University</strong>.<br>
-  I'm passionate about <strong style="color: #ff6b6b;">computer science</strong> and studying <strong style="color: #58b368;">English</strong> skills. I love learning new technologies and solving complex problems.<br><br>
+  I'm passionate about <strong style="color: #ff6b6b;">computer science</strong> and studying <strong style="color: #58b368;">English</strong>. I love learning new technologies and solving complex problems.<br><br>
   Have a great day! 😊
-</p>
+</p><span style="color: red; font-weight: bold;">Красный текст</span>
+
 
 ## ✉️ My Social Media
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vekanda)
