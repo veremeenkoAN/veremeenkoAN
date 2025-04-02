@@ -10,10 +10,10 @@
 ## ✉️ My Social Media
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vekanda)
 [![LeetCode](https://img.shields.io/badge/LeetCode-3C3C3C?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/veremeenkoAN/)
-
-
-  
+![cat](https://github.com/user-attachments/assets/246351b6-5767-41cb-871c-266ffd2bd7e5)
 </p>
+
+![cat](https://github.com/user-attachments/assets/93dd8eae-ce91-4068-9515-e5d023fe183f)
 
 
 ## 🛠️ My Stack  
