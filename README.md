@@ -5,7 +5,6 @@
   My name is <strong style="font-size: 20px; color: #4e9af1;">Alexander</strong>. I'm 20 years old and currently studying at <strong>Lobachevsky State University</strong>.<br>
   I'm passionate about <strong style="color: #ff6b6b;">computer science</strong> and studying <strong style="color: #58b368;">English</strong>. I love learning new technologies and solving complex problems.<br><br>
   Have a great day! 😊
-</p><span style="color: red; font-weight: bold;">Красный текст</span>
 
 
 ## ✉️ My Social Media
