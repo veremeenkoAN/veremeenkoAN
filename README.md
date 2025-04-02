@@ -11,7 +11,7 @@
       Have a great day! 😊
     </td>
     <td>
-      <img src="https://github.com/veremeenkoAN/veremeenkoAN/blob/main/mycat.jpg" width="300">
+      <img src="https://github.com/veremeenkoAN/veremeenkoAN/blob/main/grisha.jpg" width="300" heihgt="300">
     </td>
   </tr>
 </table>
