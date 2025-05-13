@@ -5,9 +5,8 @@
     <td>
       Let me tell you a little bit about myself.<br><br>
       My name is <strong style="font-size: 20px; color: #4e9af1;">Alexander</strong>. I'm 20 years old and currently studying at <strong>Lobachevsky State University</strong>.<br>
-      I'm passionate about <strong style="color: #ff6b6b;">computer science</strong> and studying <strong style="color: #58b368;">English</strong>. I love learning new technologies and solving interestings problems.
-      <br><br>
-      Have a great day! 😊
+      I'm passionate about <strong style="color: #ff6b6b;">computer science</strong> and studying <strong style="color: #58b368;">English</strong>
+      <br>
     </td>
     <td>
       <img src="https://github.com/veremeenkoAN/veremeenkoAN/blob/main/3jnj.gif" width="200" heihgt="200">
