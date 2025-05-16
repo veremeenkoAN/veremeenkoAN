@@ -4,7 +4,8 @@
   <tr>
     <td>
       Alexander,heh, a small person, from small city but make large things
-      passionate about <strong style="color: #ff6b6b;">computer science</strong> and studying <strong style="color: #58b368;">English</strong>
+      <br>
+      passionate about <strong style="color: #ff6b6b;">computer science</strong> and <strong style="color: #58b368;">English</strong>
       <br>
     </td>
     <td>
