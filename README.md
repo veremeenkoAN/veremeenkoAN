@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      Alexander,heh, a small person, from small city but make large things
+      heh, a small person, from small city but make large things
       <br>
       passionate about <strong style="color: #ff6b6b;">computer science</strong> and <strong style="color: #58b368;">English</strong>
       <br>
