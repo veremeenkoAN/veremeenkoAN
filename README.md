@@ -5,7 +5,6 @@
     <td>
       just passionate about computer science and english. what else was needed?
       <br>
-      passionate about <strong style="color: #ff6b6b;">computer science</strong> and <strong style="color: #58b368;">english</strong>
       <br>
     </td>
     <td>
