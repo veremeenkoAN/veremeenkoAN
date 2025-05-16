@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      heh, a small person, from small city but make large things
+      just passionate about computer science and english. what else was needed?
       <br>
       passionate about <strong style="color: #ff6b6b;">computer science</strong> and <strong style="color: #58b368;">english</strong>
       <br>
