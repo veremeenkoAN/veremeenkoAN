@@ -3,9 +3,8 @@
 <table>
   <tr>
     <td>
-      Let me tell you a little bit about myself.<br><br>
-      My name is <strong style="font-size: 20px; color: #4e9af1;">Alexander</strong>. I'm 20 years old and currently studying at <strong>Lobachevsky State University</strong>.<br>
-      I'm passionate about <strong style="color: #ff6b6b;">computer science</strong> and studying <strong style="color: #58b368;">English</strong>
+      Alexander,heh, a small person, from small city but make large things
+      passionate about <strong style="color: #ff6b6b;">computer science</strong> and studying <strong style="color: #58b368;">English</strong>
       <br>
     </td>
     <td>
